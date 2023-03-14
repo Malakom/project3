@@ -1,0 +1,20 @@
+2023-03-12 19:10:17,368 : INFO: test_about_us :The page of 'about us' is opened
+2023-03-12 19:10:30,801 : INFO: test_contact_us :The page of 'contact us' is opened
+2023-03-12 19:10:40,538 : INFO: test_logo_button :The home page is opened
+2023-03-12 19:11:10,569 : WARNING: test_same_image :Something is in warning mode
+2023-03-12 19:11:23,570 : WARNING: test_capital_name :Something is in warning mode
+2023-03-12 19:11:36,319 : DEBUG: test_review_no_text :Add a text for review
+2023-03-12 19:11:59,197 : DEBUG: test_review_no_name :Add the name for review
+2023-03-12 19:12:32,388 : INFO: test_search_letter :the search is display
+2023-03-12 19:12:42,601 : ERROR: test_without_video :A major error has happend
+2023-03-12 19:12:52,668 : ERROR: test_without_image :A major error has happend
+2023-03-12 19:13:43,751 : INFO: test_login :log-in statement
+2023-03-12 19:13:53,338 : INFO: test_send_msg :sending message
+2023-03-12 19:14:04,043 : DEBUG: test_review_no_rating :a debug statement is executed
+2023-03-12 19:14:48,443 : CRITICAL: test_format :Critical issue
+2023-03-12 19:15:05,321 : DEBUG: test_delete_same_image :a debug statement is executed
+2023-03-12 19:15:45,597 : CRITICAL: test_add_country :Critical issue
+2023-03-12 19:16:01,309 : CRITICAL: test_delete_country :Critical issue
+2023-03-12 19:16:24,386 : CRITICAL: test_add_review :Critical issue
+2023-03-12 19:17:17,361 : CRITICAL: test_search_country :Critical issue
+2023-03-12 19:17:27,141 : CRITICAL: test_change_img :Critical issue
